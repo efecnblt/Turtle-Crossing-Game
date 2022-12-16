@@ -1,7 +1,7 @@
 # Turtle-Crossing-Game
  Turtle crossing game with python
 
-This is simple Turtle crossing game implemented in python. There are 4 .py files in the file. These are respectively;   
+This is simple turtle crossing game implemented in python. There are 4 .py files in the file. These are respectively;   
 
 **player.py:** We create our turtle and with the function we created, we make it go forward when the command comes.  
 
