@@ -13,7 +13,7 @@ This is simple turtle crossing game implemented in python. There are 4 .py files
 
 The turtle trying to cross the street tries to reach the opposite point successfully without hitting the vehicles. If the turtle crosses, our level will increase by one and the speed of the vehicles will accelerate. If the turtle hits one of the vehicles, it's game over.
 
-![turtle_crossing_game](https://github.com/efecnblt/Basics-Games-with-Python/blob/main/Turtle%20Crossing%20Game/turtle_crossing_game.gif?raw=true)
+![turtle_crossing_game](https://github.com/efecnblt/Turtle-Crossing-Game/blob/main/turtle_crossing_game.gif?raw=true)
 
 ## Geri Bildirim
 
